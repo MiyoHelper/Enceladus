@@ -1,0 +1,12 @@
+{
+ "name": "enceladus",
+ "displayName": "Enceladus",
+ "author": "MiyoTizen and his Team.
+  Миё и его команда.",
+ "description": "Добавляет новую ледяную планету - Энцелад, со своими технологиями.
+ Adds new icy planet - Encelad, with his own technologies.",
+ "version": "0.1.1",
+
+ "minGameVersion": "136",
+ "dependencies": []
+}
