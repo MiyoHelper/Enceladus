@@ -1,0 +1,11 @@
+name: Methane
+description: Under normal conditions, it is a colorless, tasteless, odorless gas. It is slightly soluble in water, almost twice as soluble in air.
+heatCapacity: 0
+explosiveness: 0
+temperature: -1.64
+coolant: false
+color: aebcbf
+flammability: 0
+barColor: aebcbf
+incinerable: false
+research: water

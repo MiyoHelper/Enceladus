@@ -1,0 +1,8 @@
+name: Lithium
+description: Used in Enceladus electronics.
+hardness: 3
+cost: 1
+alwaysUnlocked: false
+color: 545252
+research: ice
+hiddenOnPlanets: [erekir, serpulo]

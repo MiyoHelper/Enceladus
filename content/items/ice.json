@@ -1,0 +1,12 @@
+{
+ "type": "material",
+ "name": "Ice",
+ "description": "icyyyyy",
+ "color": "#5edbdb",
+ "explosiveness": 0f,
+ "flammability": 0f,
+ "radioactivity": 0f,
+ "hardness": 2,
+ "cost": 2.5f,
+ "alwaysUnlocked": false
+}

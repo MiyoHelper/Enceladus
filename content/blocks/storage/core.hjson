@@ -1,0 +1,19 @@
+localizedName: Ядро: Озноб
+type: CoreBlock
+name: Core: Chills
+description: The core of the base. Armored. Once destroyed, all contact with the region is lost.
+health: 450
+squareSprite: false
+size: 3
+armor: 5
+itemCapacity: 400
+unitCapModifier: 4
+researchCostMultiplier: 0.07
+buildCost: 15.0
+unitType: beta
+requirements: [
+  ice/350
+]
+category: effect
+research: core-nucleus
+details: Ядро явно чиллит...

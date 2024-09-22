@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Burner
+description: Burns ice into water.
+size: 1
+health: 60
+category: crafting
+research: core
+itemCapacity: 5
+hasLiquids: true
+liquidCapacity: 10
+researchCostMultiplier: 1.1
+requirements: [
+  ice/20
+]
+craftTime: 75
+craftEffect: melting
+outputLiquids: [
+  water/0.1666666666666667
+]
+consumes: {
+  power: 0.25
+  items: [
+    ice/2
+  ]
+}
+ambientSound: glow
+ambientSoundVolume: 0.7
+squareSprite: true

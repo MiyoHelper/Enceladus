@@ -1,0 +1,16 @@
+type: Duct
+name: Ice Conveyor
+description: Standard conveyor. Moves objects slowly but surely.
+category: distribution
+armored: true
+alwaysUnlocked: false
+research: core
+researchCost: [
+  ice/20
+]
+speed: 13
+health: 35
+requirements: [
+  ice/1
+]
+itemCapacity: 1
